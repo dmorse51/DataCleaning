@@ -42,7 +42,6 @@ Example: "tBodyAcc-mean()-X"
 
 Final, tidy data table yields 180 rows, 81 columns.  Each row represents mean scores by subject and activity, for each of the 79 variables that were recorded in the original data set as means or SDs.
 
-C'est tout!
     
    
     
